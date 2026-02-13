@@ -1,0 +1,14 @@
+ Id     Duration CommandLine
+  --     -------- -----------
+   1        0.390 try { . "c:\Users\KUSHAL\App… 
+   2        0.137 git ststus
+   3        0.086 git status
+   4        0.086 git commit -m "My local chan… 
+   5        0.072 git status
+   6        0.011 rm gitcmd.txt
+   7        0.062 git status
+   8        0.082 git rm gitcmd.txt
+   9        0.065 git status
+  10        0.143 git commit -m "local"
+  11        0.073 git status
+  12        2.230 git push origin master     
