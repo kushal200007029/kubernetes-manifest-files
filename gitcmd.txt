@@ -1,0 +1,31 @@
+Id     Duration CommandLine
+  --     -------- -----------
+   1        0.330 try { . "c:\Users\KUSHAL\App…
+   2        0.034 ls
+   3        0.150 ls -a
+   4        0.018 ls -l
+   5        0.176 ll
+   6        0.018 clear
+   7        0.183 git init
+   8        0.085 git status
+   9        0.005 ls
+  10        0.007 dir
+  11        0.002 clear
+  12        0.069 git status
+  13        0.086 git add manifest.yaml
+  14        0.077 git status
+  15        0.069 git rm --cached manifest.yaml
+  16        0.082 git status
+  17        0.002 clear
+  18        0.072 git add manifest.yaml
+  19        0.062 git status
+  20        0.210 git commit -m "first commit"
+  21        0.073 git status
+  22        0.005 rm manifest.yaml
+  23        0.003 ls
+  24        0.063 git status
+  25        0.135 restore manifest.yaml
+  26        0.072 git restore manifest.yaml
+  27        0.005 ls
+  28        0.001 clear
+  29        0.068 git status
