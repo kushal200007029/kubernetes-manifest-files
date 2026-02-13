@@ -27,7 +27,5 @@ Id     Duration CommandLine
   25        0.135 restore manifest.yaml
   26        0.072 git restore manifest.yaml
   27        0.005 ls
-  28        0.001 clear
+  28        0.001 clear clear all
   29        0.068 git status
-
-------------------k------------------k-----------------
